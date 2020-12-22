@@ -6,8 +6,6 @@
     <img src="/logo.png" alt="Logo" width="200" >
   </a>
 
-  <h3 align="center">GlobalAlHubPythonHomework</h3>
-
   <p align="center">
     Global Al Hub Python Homework
     <br />

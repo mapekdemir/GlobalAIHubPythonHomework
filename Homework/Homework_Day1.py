@@ -1,4 +1,4 @@
-"""
+"""   @mapekdemir
 Take 5 values the user and write a program that prints the values you get on the screen.
 Print the of values you received in this program the screen.
 When using print functions, do not forget to f-string and format usage in program

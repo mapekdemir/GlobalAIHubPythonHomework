@@ -20,7 +20,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Global Al Hub Python Homework]()
+* [Global Al Hub Python Homework](https://github.com/mapekdemir/GlobalAlHubPythonHomework#global-al-hub-python-homework)
   * [About]()
   * [Programming languages used]()
 * [Contact]()

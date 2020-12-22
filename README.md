@@ -21,7 +21,7 @@
 ## Table of Contents
 
 * [Global Al Hub Python Homework](https://github.com/mapekdemir/GlobalAlHubPythonHomework#global-al-hub-python-homework)
-  * [About]()
+  * [About](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/README.md#about)
   * [Programming languages used]()
 * [Contact]()
 

@@ -8,6 +8,7 @@ val2 = int(input("Enter the integer value: "))
 val3 = float(input("Enter the float value: "))
 val4 = bool(input("Enter the bool value: "))
 val5 = list(input("Enter the list value: "))
+val5 = val5.split()
 
 tval1 = type(val1)
 tval2 = type(val2)

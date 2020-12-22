@@ -20,10 +20,10 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Global Al Hub Python Homework](https://github.com/mapekdemir/GlobalAlHubPythonHomework#global-al-hub-python-homework)
-  * [About](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/README.md#about)
-  * [Programming languages used](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/README.md#programming-languages-used)
-* [Contact](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/README.md#-contact-)
+* [Global Al Hub Python Homework](#global-al-hub-python-homework)
+  * [About](#about)
+  * [Programming languages used](#programming-languages-used)
+* [Contact](#-contact-)
 
 
 

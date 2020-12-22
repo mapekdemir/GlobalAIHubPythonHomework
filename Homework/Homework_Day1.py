@@ -20,5 +20,5 @@ First Value  : {val1} -- Type: {str(tval1)[8:-2]}
 Second Value : {val2} -- Type: {str(tval2)[8:-2]}
 Third Value  : {val3} -- Type: {str(tval3)[8:-2]}
 Fourth Value : {val4} -- Type: {str(tval4)[8:-2]}
-Fifth Value  : {list} -- Type: {str(tval5)[8:-2]}
+Fifth Value  : {val5} -- Type: {str(tval5)[8:-2]}
 """)

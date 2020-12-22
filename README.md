@@ -34,7 +34,7 @@
 Global al hub is the homework repository for the python course.
 
 ### Programming languages used
-<img align="left" alt="python" width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
+<a href="https://python.org"><img align="left" alt="python" width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
 
 <br>
 <br>

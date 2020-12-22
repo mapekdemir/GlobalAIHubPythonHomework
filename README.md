@@ -37,7 +37,7 @@ Global al hub is the homework repository for the python course.
 <img align="left" alt="python" width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">
 
 <br>
-
+<br>
 <h2 style="color:Green;text-shadow: 3px 4px 4px rgba(0, 250, 70, 0.7)"> Contact </h2>
 
 [<img align="left" alt="iletisim | Telegram" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111710.svg" />][Telegram]

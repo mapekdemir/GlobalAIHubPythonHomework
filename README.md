@@ -23,7 +23,7 @@
 * [Global Al Hub Python Homework](https://github.com/mapekdemir/GlobalAlHubPythonHomework#global-al-hub-python-homework)
   * [About](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/README.md#about)
   * [Programming languages used](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/README.md#programming-languages-used)
-* [Contact]()
+* [Contact](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/README.md#-contact-)
 
 
 

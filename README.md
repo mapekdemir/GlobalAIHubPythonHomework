@@ -31,12 +31,12 @@
 ## Global Al Hub Python Homework
 
 ## Homework
-* [Day1]()
-* [Day2]()
-* [Day3]()
-* [Day4]()
-* [Day5]()
-* [Final]()
+* [Day 1](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/Homework/Homework_Day1.py)
+* [Day 2](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/Homework/Homework_Day2.py)
+* [Day 3](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/Homework/Homework_Day3.py)
+* [Day 4](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/Homework/Homework_Day4.py)
+* [Day 5](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/Homework/Homework_Day5.py)
+* [Final](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/Homework/Homework_Final.py)
 
 ### About
 Global al hub is the homework repository for the python course.

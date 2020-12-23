@@ -30,6 +30,14 @@
 <!-- Global Al Hub Python Homework -->
 ## Global Al Hub Python Homework
 
+## Homework
+* [Day1]()
+* [Day2]()
+* [Day3]()
+* [Day4]()
+* [Day5]()
+* [Final]()
+
 ### About
 Global al hub is the homework repository for the python course.
 

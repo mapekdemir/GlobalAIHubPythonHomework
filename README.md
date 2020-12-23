@@ -21,6 +21,7 @@
 ## Table of Contents
 
 * [Global Al Hub Python Homework](#global-al-hub-python-homework)
+  * [Homework](#homework)
   * [About](#about)
   * [Programming languages used](#programming-languages-used)
 * [Contact](#-contact-)

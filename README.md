@@ -20,7 +20,7 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Global Al Hub Python Homework](#global-al-hub-python-homework)
+* [Global Ai Hub Python Homework](#global-al-hub-python-homework)
   * [Homework](#homework)
   * [About](#about)
   * [Programming languages used](#programming-languages-used)
@@ -28,7 +28,7 @@
 
 
 
-<!-- Global Al Hub Python Homework -->
+<!-- Global Ai Hub Python Homework -->
 ## Global Al Hub Python Homework
 
 ## Homework
@@ -40,7 +40,7 @@
 * [Final](https://github.com/mapekdemir/GlobalAlHubPythonHomework/blob/main/Homework/Homework_Final.py)
 
 ### About
-Global al hub is the homework repository for the python course.
+Global ai hub is the homework repository for the python course.
 
 ### Programming languages used
 <a href="https://python.org"><img align="left" alt="python" width="40px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png"></a>
